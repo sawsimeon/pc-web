@@ -1,0 +1,20 @@
+library(shiny)
+library(shinythemes)
+library(markdown)
+
+
+shinyUI(fluidPage(title="KNU/KNLA Peace Council Web Site", theme=shinytheme("cerulean"),
+                  navbarPage(strong("KNU/KNLA Peace Council"),
+                             tabPanel("Home", titlePanel("KNU/KNLA Peace Council")), #tabPanel Submit Job
+                             
+                             tabPanel("History", titlePanel("History"), div(includeMarkdown("history.md"), align="justify")),
+                             tabPanel("Department", titlePanel("Department"), includeMarkdown("department.md")),
+                             tabPanel("Activities", titlePanel("Activities"), div(includeMarkdown("activities.md"), align="justify")),
+                             tabPanel("Education", titlePanel("Education"), includeMarkdown("education.md")),
+                             tabPanel("Agriculture", titlePanel("Agriculture"), div(includeMarkdown("agriculture.md"), align="justify")),
+                             tabPanel("Meeting", titlePanel("Meeting"), includeMarkdown("meeting.md")),
+                             tabPanel("Contact", titlePanel("Contact"), includeMarkdown("contact.md"))	
+                             
+                  ) #navbarPage
+) #fluidPage	
+) #shinyUI
