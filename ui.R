@@ -13,6 +13,7 @@ shinyUI(fluidPage(title="KNU/KNLA Peace Council Web Site", theme=shinytheme("cer
                              tabPanel("Education", titlePanel("Education"), includeMarkdown("education.md")),
                              tabPanel("Agriculture", titlePanel("Agriculture"), div(includeMarkdown("agriculture.md"), align="justify")),
                              tabPanel("Meeting", titlePanel("Meeting"), includeMarkdown("meeting.md")),
+                             tabPanel("Photos", titlePanel("Photos"), includeMarkdown("photo.md")),
                              tabPanel("Contact", titlePanel("Contact"), includeMarkdown("contact.md"))	
                              
                   ) #navbarPage

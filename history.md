@@ -18,10 +18,19 @@ On 2012, Bridg-Gen. Saw Htay Maung met Daw Aung San Suu Kyi and had peace dialog
 <img src="http://img.youtube.com/vi/C56c7HHiC9U/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="100%" height="100%" border="10" /></a>
 *Click The Image to play the video in new browser*
+
+<!--
 <div class = "iframe_container">
 <iframe width="825" height="825" src="https://www.youtube.com/embed/C56c7HHiC9U" frameborder="0" allowfullscreen></iframe>
 </div>
 *Click the Play Button to play within the web page*
+-->
 <!---
 !youtube[ title ](https://www.youtube.com/watch?v=C56c7HHiC9U){ size=10 cycle=forever }
 -->
+
+Eventually in 2015, nation wide cease-fire agreement is reached at Naypyitaw, the capital city of Myanmar in which a total of 24 ethnic leaders from 8 ethnic armed groups signed the cease fire agreement.
+
+
+<img src="https://raw.githubusercontent.com/sawsimeon/pc-web/master/img/Gen_Htay_Maung_NCA.jpg" style = "width: 100%; height: 100%"/>
+<em> Gen Htay Maung, the chairman of the KNU/KNLA PC, signed a nationwide ceasefire agreement on 2015</em>
