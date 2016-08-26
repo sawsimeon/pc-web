@@ -1,8 +1,8 @@
 name: pc-web
 account: rnewbie
 server: shinyapps.io
-bundleId: 540533
+bundleId: 541539
 url: https://rnewbie.shinyapps.io/pc-web/
-when: 1472115617.4763
+when: 1472205580.15095
 asMultiple: FALSE
 asStatic: FALSE
