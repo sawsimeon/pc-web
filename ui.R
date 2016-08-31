@@ -13,7 +13,7 @@ shinyUI(fluidPage(title="KNU/KNLA Peace Council Web Site", theme=shinytheme("cer
                              navbarMenu("Agriculture", tabPanel(
                                a("Rice Production", href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/sawsimeon/pc-web/master/rice_farm.html", target = "_blank")),
                                         tabPanel(a("Animal/Husbary", href = "https://htmlpreview.github.io/?https://raw.githubusercontent.com/sawsimeon/pc-web/master/animal.html", target = "_blank")),
-                                        tabPanel("Chicken farm", titlePanel("Chicken"))),
+                                        tabPanel(a("Chicken farm", href = "https://htmlpreview.github.io/?https://raw.githubusercontent.com/sawsimeon/pc-web/master/chicken.html", target = "_blank"))),
                              tabPanel("Education", titlePanel("Education"), includeMarkdown("education.md")),
                              tabPanel("Activities", titlePanel("Activities"), div(includeMarkdown("activities.md"), align="justify")),
                              tabPanel("Meeting", titlePanel("Meeting"), includeMarkdown("meeting.md")),
