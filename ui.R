@@ -5,7 +5,7 @@ library(markdown)
 
 shinyUI(fluidPage(title="KNU/KNLA Peace Council Web Site", theme=shinytheme("cerulean"),
                   navbarPage(strong("KNU/KNLA Peace Council"),
-                             tabPanel("Home", titlePanel("KNU/KNLA Peace Council")), #tabPanel Submit Job
+                             tabPanel("Home", titlePanel("KNU/KNLA Peace Council"), includeMarkdown("home.md")), #tabPanel Submit Job
                              
                              tabPanel("History", titlePanel("History"), div(includeMarkdown("history.md"), align="justify")),
                              tabPanel("Department", titlePanel("Department"), includeMarkdown("department.md")),

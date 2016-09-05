@@ -1,5 +1,5 @@
 
-The peace talks between the KNU and Myanmar army began at the beginning of 2004 when General Bo Mya travelled to Yangon to discuss peace with General Khin Nyunt, who was stripped from power in October 2004. However, in 2006, General, Bo Mya died with heart disease in Mae Sot, Thailand. A year later, after the death of General Bo Mya, Brig-General Htay Maung continue the peace process by coming back to the Tokawko village in the Kawkereik Township with the hope to bring peace and prosperisity to the people. 
+The peace talks between the KNU and Myanmar army began at the beginning of 2004 when General Bo Mya travelled to Yangon to discuss peace with General Khin Nyunt, who was stripped from power in October 2004. However, in 2006, General, Bo Mya died in Mae Sot, Thailand. A year later, after the death of General Bo Mya, Brig-General Htay Maung continue the peace process by coming back to the Tokawko village in the Kawkereik Township with the hope to bring peace and prosperisity to the people. 
 
 <!---
 ![Brig-Gen Htay Maung (left), Gen. Bo Mya (center) and Gen. Khin Nyunt (right) during the ceasefire agreement in Myanmar at the beginning of the year 2004](https://raw.githubusercontent.com/sawsimeon/pc-web/master/img/Gen_Htay_Maung_Gen_Bo_Mya_Gen_Khin_Nyunt.jpg)
